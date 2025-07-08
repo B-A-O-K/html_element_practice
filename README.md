@@ -1,2 +1,2 @@
 # html_element_practice
-playing with html elements
+playing with html elements using a fake blog
